@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "241794408586",
+    "project_id": "textrecog-4c06a",
+    "storage_bucket": "textrecog-4c06a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241794408586:android:5fbda5e57aaf9305980d73",
+        "android_client_info": {
+          "package_name": "com.example.textrecod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241794408586-j3b0fvj5so2nojnp50d0k1993o8j620s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.textrecod",
+            "certificate_hash": "84c28538dd677413f5508a3ea1510b1ad60480d4"
+          }
+        },
+        {
+          "client_id": "241794408586-4qlggebhqu96m0uu0s31jhmumbcfolrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC425QsWAH5pztPaewKpqc4fNrm0u2OEuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241794408586-4qlggebhqu96m0uu0s31jhmumbcfolrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
